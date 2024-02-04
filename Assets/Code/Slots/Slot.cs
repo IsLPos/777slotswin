@@ -7,6 +7,7 @@ public class Slot : MonoBehaviour
     public static Slot instance { get; private set; }
 
     [SerializeField] private GameObject _winPanel;
+    [SerializeField] private GameObject _fadePanel;
     [SerializeField] private GameObject _particles;
     
     [HideInInspector] public LineRenderer lineRenderer;
@@ -103,6 +104,7 @@ public class Slot : MonoBehaviour
     {
         StartCoroutine(LineFade(firstPos, secondPos, thirdPos));
         _winPanel.SetActive(true);
+        _fadePanel.SetActive(true);
 
         Vector3 spawnPos = new Vector3(-0.02f, 1.46f, -29.67f);
         Quaternion rotatePos = Quaternion.Euler(0f, 180f, 0f);

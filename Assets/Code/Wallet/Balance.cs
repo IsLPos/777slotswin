@@ -1,12 +1,17 @@
 using System;
 using UnityEngine;
 using TMPro;
+using Random = UnityEngine.Random;
 
 public class Balance : MonoBehaviour
 {
     public static Balance instance { get; private set; }
 
     [SerializeField] private TextMeshProUGUI _winText;
+    [SerializeField] private TextMeshProUGUI _rewardText;
+    
+    [SerializeField] private GameObject _rewardPanel;
+    [SerializeField] private GameObject _fadePanel;
 
     [SerializeField] public int moneyBalace;
 
@@ -33,6 +38,7 @@ public class Balance : MonoBehaviour
     private void Update()
     {
         ChangeText();
+        CheckPlayerBalance();
     }
 
     private void AddPray(int id)
@@ -72,6 +78,20 @@ public class Balance : MonoBehaviour
         prayFarmerBalace += amount;
         prayPlayerBalace += amount;
         _lastWin = amount * 9;
+    }
+
+    private void CheckPlayerBalance()
+    {
+        if (prayPlayerBalace < 5)
+        {
+            int randomBalance = Random.Range(30, 250);
+
+            prayPlayerBalace = randomBalance;
+            
+            _rewardPanel.SetActive(true);
+            _fadePanel.SetActive(true);
+            _rewardText.text = randomBalance.ToString();
+        }
     }
     
     private void SetSingleton()
