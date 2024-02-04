@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 8a12ba05a3d2a1449afb478963fde98f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 649599362043084245
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_0
+  - first:
+      213: 8549325027298444615
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_1
+  - first:
+      213: 15800036331172887
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_2
+  - first:
+      213: -2944824124961486905
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_3
+  - first:
+      213: -6360582638586178018
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_4
+  - first:
+      213: 8243303743023735424
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_5
+  - first:
+      213: 2823428538325008976
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_6
+  - first:
+      213: 6460998469608175912
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_7
+  - first:
+      213: 312255519157880853
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_8
+  - first:
+      213: 6841419999006207558
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_9
+  - first:
+      213: 6232016411105842081
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_10
+  - first:
+      213: 4258015973516443200
+    second: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 251
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf5e49d27d30900800000000000000
+      internalID: 649599362043084245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 251
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7450b79e0dd45a670800000000000000
+      internalID: 8549325027298444615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 251
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71435f0ac02283000800000000000000
+      internalID: 15800036331172887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 251
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c78ba98f02e127d0800000000000000
+      internalID: -2944824124961486905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 138
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16dd8e3acbaab7a0800000000000000
+      internalID: -6360582638586178018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 136
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e3925419166270800000000000000
+      internalID: 8243303743023735424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 138
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0520093eb45de2720800000000000000
+      internalID: 2823428538325008976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 136
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829765350e31aa950800000000000000
+      internalID: 6460998469608175912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188f828dba555400800000000000000
+      internalID: 312255519157880853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 27
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea400ed3b91fe50800000000000000
+      internalID: 6841419999006207558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 27
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35e5248e19c7650800000000000000
+      internalID: 6232016411105842081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 27
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef26dc7f2871b30800000000000000
+      internalID: 4258015973516443200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_0: 649599362043084245
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_1: 8549325027298444615
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_10: 6232016411105842081
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_11: 4258015973516443200
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_2: 15800036331172887
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_3: -2944824124961486905
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_4: -6360582638586178018
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_5: 8243303743023735424
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_6: 2823428538325008976
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_7: 6460998469608175912
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_8: 312255519157880853
+      vector-egyptian-icons-for-casino-machines-slots-game-converted-01--removebg-preview_9: 6841419999006207558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
