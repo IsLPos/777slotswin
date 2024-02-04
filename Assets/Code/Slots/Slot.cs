@@ -104,7 +104,7 @@ public class Slot : MonoBehaviour
         StartCoroutine(LineFade(firstPos, secondPos, thirdPos));
         _winPanel.SetActive(true);
 
-        Vector3 spawnPos = new Vector3(-0.02f, 1.46f, -2f);
+        Vector3 spawnPos = new Vector3(-0.02f, 1.46f, -29.67f);
         Quaternion rotatePos = Quaternion.Euler(0f, 180f, 0f);
         Instantiate(_particles, spawnPos, rotatePos);
     }
